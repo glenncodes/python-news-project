@@ -6,3 +6,35 @@ Simple Project, made using "newsapi.org"
 requires an API key from newsapi, just plug it in.
 
 written in python3.6, comments around
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ᶘ ᵒᴥᵒᶅ | Made with ❤️ with GCodes
